@@ -6,11 +6,11 @@
 ## Free never tasted so good.
 MyBB is a free and open source, community-based forum software project. Learn more at [MyBB.com](https://mybb.com).
 
-### MyBB 1.8
+### NatnaBB 1.8
 
 The `feature` branch contains the source code for MyBB 1.8. It contains the latest bug fixes for the 1.8 series and, while you're free to use the code on your own forum to fix specific issues, support may not be provided on MyBB.com until an official release.
 
-### MyBB 1.x
+### NatnaBB 1.x
 
 The `develop/*` branches contain the source code of future branches of MyBB under development.
 
